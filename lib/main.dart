@@ -1,6 +1,8 @@
 import 'package:asmaul_husna/view/listItem.dart';
 import 'package:flutter/material.dart';
 
+//buat hacktober fest
+
 void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
